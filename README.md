@@ -80,3 +80,8 @@ The Data Science Future Scope Analysis clearly shows that Data Science will rema
 • Online Job Portals
 • Data Science Career Articles
 • Power BI Documentation
+
+
+
+<img width="519" height="290" alt="image" src="https://github.com/user-attachments/assets/5250062a-ef48-4a35-b491-ad047cb7e7c6" />
+
